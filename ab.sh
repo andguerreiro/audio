@@ -4,7 +4,6 @@ shopt -s nullglob
 
 # ------------------------------------------------------------
 # Simple A/B comparison using two synchronized mpv instances
-# Switching by volume (no rewind, stable)
 # ------------------------------------------------------------
 
 # --- Check for required commands ---
