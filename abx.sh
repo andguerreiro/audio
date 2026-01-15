@@ -4,7 +4,6 @@ shopt -s nullglob
 
 # ------------------------------------------------------------
 # TRUE ABX test using TWO synchronized mpv instances
-# Switching by volume (no rewind, stable)
 # ------------------------------------------------------------
 
 # --- Dependencies ---
