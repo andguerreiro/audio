@@ -1,2 +1,1 @@
-# music
-AB and ABX Music Test Script
+AB and ABX Music Test Scripts
