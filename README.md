@@ -19,3 +19,6 @@ Install on Debian/Ubuntu: `sudo apt install mpv socat`
 - **X**: play hidden sample (ABX only)
 - **G**: guess X (ABX only)
 - **Ctrl+C**: quit and show results
+
+## Sample File
+- Download a sample file for tests here: [helpguide.sony.net/high-res/sample1/v1/en](https://helpguide.sony.net/high-res/sample1/v1/en/index.html)
